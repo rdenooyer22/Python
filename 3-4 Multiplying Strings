@@ -1,0 +1,12 @@
+spaces= ' ' *25
+
+print('%s 93 Briarcliff Rd.'%spaces)
+print('%s Mountain Lakes, NJ 07046'%spaces)
+print(' ')
+print(' ')
+print('Dear Mr. Stoloff')
+print(' ')
+print("I will be Briarcliff's best Python coder ever!")
+print(' ')
+print('Sincerely')
+print('Your favorite student')
