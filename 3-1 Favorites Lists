@@ -1,0 +1,3 @@
+games=['sports','csgo','soccer']
+foods=['pizza','icecream','hot_dogs']
+print("favorites")
